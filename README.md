@@ -1,1 +1,1 @@
-# CollectiveLearning
+# Collective Learning
